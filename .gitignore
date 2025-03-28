@@ -12,6 +12,8 @@
 
 # production
 /build
+/dist
+*.tar.gz
 
 # misc
 .DS_Store
@@ -33,8 +35,12 @@ yarn-error.log*
 next-env.d.ts
 
 # IDE
-.idea/
 .vscode/
+.idea/
+
+# Logs
+logs
+*.log
 
 # Static export
 /out
