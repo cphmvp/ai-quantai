@@ -179,12 +179,12 @@ export default function Home() {
                 content: "DeepUseAI Pro帮助我们基金在过去一年提升了28%的收益率，智能风控系统有效降低了回撤，是值得信赖的量化交易解决方案。"
               },
               {
-                name: "DongEr",
+                name: "FeiChen",
                 title: "资产管理公司CEO",
                 content: "产品的AI预测功能非常强大，对市场转折点的预判准确度令人惊讶。技术支持团队响应迅速，服务一流。"
               },
               {
-                name: "FeiChen",
+                name: "DongEr",
                 title: "金融科技研究员",
                 content: "作为研究员，我对DeepUseAI的技术架构和算法实现印象深刻。它代表了量化交易与AI融合的未来发展方向。"
               }

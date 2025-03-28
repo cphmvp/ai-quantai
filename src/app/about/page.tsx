@@ -11,12 +11,12 @@ export default function AboutPage() {
       description: '拥有15年量化交易经验，曾任职于多家顶级投资机构'
     },
     {
-      name: 'DongEr',
+      name: 'FeiChen',
       title: '技术总监',
       description: '人工智能专家，曾领导多个大规模AI项目的开发'
     },
     {
-      name: 'FeiChen',
+      name: 'DongEr',
       title: '量化策略总监',
       description: '金融工程博士，专注于高频交易策略研发'
     }
